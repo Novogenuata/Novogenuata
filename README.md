@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Novogenuata
 - 👀 I’m interested in drawing & web design
 - 🌱 I’m currently learning CST
-- 💞️ I’m looking to collaborate on nothing yet!
-- 😄 Pronouns: she
 - ⚡ Fun fact: I`ve been drawing for 10+ years :)
 
 <!---
